@@ -10,4 +10,13 @@ public class OperatorBinary {
     int jumlahSKS = 24;
     double indeksPresentasiKumulatif = 3.89;
 
+    public static void main(String[] args) {
+        System.out.println(9+3);
+        System.out.println(9-3);
+        System.out.println(9*3);
+        System.out.println(9/3);
+        System.out.println(9%3);
+        System.out.println(9%2);
+    }
+
 }
